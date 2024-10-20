@@ -30,7 +30,7 @@ The first concept has been slightly changed.
 
 ###
 
-![Wireframe](https://power88w.github.io/Simon_Game/assets/images/wireframe.JPG)
+![Wireframe](https://mkulpaData.github.io/Simon_Game/assets/images/wireframe.JPG)
 
 
 
@@ -96,10 +96,10 @@ Jasmine: Set up a Jasmine Testing folder for:
 ## Deployment
 
 ```md
- git clone https://github.com/power88w/Simon_Game.git
+ git clone https://github.com/mkulpaData/Simon_Game.git
 ```
 
-(https://power88w.github.io/Simon_Game/)
+(https://mkulpaData.github.io/Simon_Game/)
 
 
 
